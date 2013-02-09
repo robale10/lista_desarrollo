@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 edicion uno rama master
 edicion dos rama master
 edicion uno de rama_uno
 edicion tres de rama master
+=======
+edicion uno
+edicion dos
+>>>>>>> testeo
